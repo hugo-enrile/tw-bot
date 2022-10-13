@@ -1,0 +1,134 @@
+2022-10-09 18:44:45,417 - INFO: Getting credentials
+2022-10-09 18:44:45,417 - INFO: OK - Credentials
+2022-10-09 18:44:45,420 - INFO: Getting credentials
+2022-10-09 18:44:45,420 - INFO: OK - Credentials
+2022-10-09 18:44:45,420 - INFO: Authenticating
+2022-10-09 18:44:45,420 - INFO: OK - Authentication
+2022-10-09 18:44:45,420 - INFO: Generating tweet
+2022-10-09 18:44:45,420 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 18:44:45,420 - INFO: Post tweet
+2022-10-09 18:46:54,669 - INFO: Getting credentials
+2022-10-09 18:46:54,673 - INFO: OK - Credentials
+2022-10-09 18:46:54,675 - INFO: Getting credentials
+2022-10-09 18:46:54,675 - INFO: OK - Credentials
+2022-10-09 18:46:54,675 - INFO: Authenticating
+2022-10-09 18:47:18,666 - INFO: Getting credentials
+2022-10-09 18:47:18,667 - INFO: OK - Credentials
+2022-10-09 18:47:18,668 - INFO: Getting credentials
+2022-10-09 18:47:18,669 - INFO: OK - Credentials
+2022-10-09 18:47:18,669 - INFO: Authenticating
+2022-10-09 18:47:18,669 - INFO: OK - Authentication
+2022-10-09 18:47:18,669 - INFO: Generating tweet
+2022-10-09 18:47:18,669 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 18:47:18,669 - INFO: Post tweet
+2022-10-09 18:48:39,484 - INFO: Getting credentials
+2022-10-09 18:48:39,486 - INFO: OK - Credentials
+2022-10-09 18:48:39,487 - INFO: Getting credentials
+2022-10-09 18:48:39,487 - INFO: OK - Credentials
+2022-10-09 18:48:39,487 - INFO: Authenticating
+2022-10-09 18:48:39,488 - INFO: OK - Authentication
+2022-10-09 18:48:39,488 - INFO: Generating tweet
+2022-10-09 18:48:39,488 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 18:48:39,488 - INFO: Post tweet
+2022-10-09 18:49:38,064 - INFO: Getting credentials
+2022-10-09 18:49:38,065 - INFO: OK - Credentials
+2022-10-09 18:49:38,065 - INFO: Authenticating
+2022-10-09 18:49:38,066 - INFO: OK - Authentication
+2022-10-09 18:49:38,066 - INFO: Generating tweet
+2022-10-09 18:49:38,066 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 18:49:38,066 - INFO: Post tweet
+2022-10-09 19:01:31,330 - INFO: Getting credentials
+2022-10-09 19:01:31,331 - INFO: OK - Credentials
+2022-10-09 19:01:31,331 - INFO: Authenticating
+2022-10-09 19:01:31,331 - INFO: OK - Authentication
+2022-10-09 19:01:31,332 - INFO: Generating tweet
+2022-10-09 19:01:31,332 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:01:31,332 - INFO: Post tweet
+2022-10-09 19:02:03,882 - INFO: Getting credentials
+2022-10-09 19:02:03,882 - INFO: OK - Credentials
+2022-10-09 19:02:03,882 - INFO: Authenticating
+2022-10-09 19:02:03,883 - INFO: OK - Authentication
+2022-10-09 19:02:03,883 - INFO: Generating tweet
+2022-10-09 19:02:03,883 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:02:03,883 - INFO: Post tweet
+2022-10-09 19:03:30,474 - INFO: Getting credentials
+2022-10-09 19:03:30,475 - INFO: OK - Credentials
+2022-10-09 19:03:30,475 - INFO: Authenticating
+2022-10-09 19:03:30,476 - INFO: OK - Authentication
+2022-10-09 19:03:30,476 - INFO: Generating tweet
+2022-10-09 19:03:30,476 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:03:30,476 - INFO: Post tweet
+2022-10-09 19:06:18,504 - INFO: Getting credentials
+2022-10-09 19:06:18,505 - INFO: OK - Credentials
+2022-10-09 19:06:18,505 - INFO: Authenticating
+2022-10-09 19:06:18,505 - INFO: OK - Authentication
+2022-10-09 19:06:18,505 - INFO: Generating tweet
+2022-10-09 19:06:18,505 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:06:18,505 - INFO: Post tweet
+2022-10-09 19:06:47,153 - INFO: Getting credentials
+2022-10-09 19:06:47,153 - INFO: OK - Credentials
+2022-10-09 19:06:47,153 - INFO: Authenticating
+2022-10-09 19:06:47,154 - INFO: OK - Authentication
+2022-10-09 19:06:47,154 - INFO: Generating tweet
+2022-10-09 19:06:47,154 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:06:47,154 - INFO: Post tweet
+2022-10-09 19:10:50,756 - INFO: Getting credentials
+2022-10-09 19:10:50,756 - INFO: OK - Credentials
+2022-10-09 19:10:50,756 - INFO: Authenticating
+2022-10-09 19:11:17,911 - INFO: Getting credentials
+2022-10-09 19:11:17,911 - INFO: OK - Credentials
+2022-10-09 19:11:17,911 - INFO: Authenticating
+2022-10-09 19:11:17,911 - INFO: OK - Authentication
+2022-10-09 19:11:17,911 - INFO: Generating tweet
+2022-10-09 19:11:17,911 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:11:17,911 - INFO: Post tweet
+2022-10-09 19:11:33,113 - INFO: Getting credentials
+2022-10-09 19:11:33,113 - INFO: OK - Credentials
+2022-10-09 19:11:33,113 - INFO: Authenticating
+2022-10-09 19:11:33,113 - INFO: OK - Authentication
+2022-10-09 19:11:33,113 - INFO: Generating tweet
+2022-10-09 19:11:33,113 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:11:33,113 - INFO: Post tweet
+2022-10-09 19:14:29,840 - INFO: Getting credentials
+2022-10-09 19:14:29,841 - INFO: OK - Credentials
+2022-10-09 19:14:29,841 - INFO: Authenticating
+2022-10-09 19:14:29,841 - INFO: OK - Authentication
+2022-10-09 19:14:29,842 - INFO: Generating tweet
+2022-10-09 19:14:29,842 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:14:29,842 - INFO: Post tweet
+2022-10-09 19:14:51,795 - INFO: Getting credentials
+2022-10-09 19:14:51,795 - INFO: OK - Credentials
+2022-10-09 19:14:51,795 - INFO: Authenticating
+2022-10-09 19:14:51,796 - INFO: OK - Authentication
+2022-10-09 19:14:51,796 - INFO: Generating tweet
+2022-10-09 19:14:51,796 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:14:51,796 - INFO: Post tweet
+2022-10-09 19:21:01,202 - INFO: Getting credentials
+2022-10-09 19:21:01,203 - ERROR: FAIL - Some credentials are not available
+2022-10-09 19:21:01,203 - INFO: OK - Credentials
+2022-10-09 19:21:01,203 - INFO: Authenticating
+2022-10-09 19:21:56,234 - INFO: Getting credentials
+2022-10-09 19:21:56,235 - ERROR: FAIL - Some credentials are not available
+2022-10-09 19:21:56,235 - INFO: OK - Credentials
+2022-10-09 19:21:56,235 - INFO: Authenticating
+2022-10-09 19:22:13,061 - INFO: Getting credentials
+2022-10-09 19:22:13,061 - ERROR: FAIL - Some credentials are not available
+2022-10-09 19:22:59,372 - INFO: Getting credentials
+2022-10-09 19:22:59,373 - ERROR: FAIL - Some credentials are not available
+2022-10-09 19:22:59,373 - INFO: OK - Credentials
+2022-10-09 19:22:59,373 - INFO: Authenticating
+2022-10-09 19:23:22,434 - INFO: Getting credentials
+2022-10-09 19:23:37,255 - INFO: Getting credentials
+2022-10-09 19:23:37,255 - INFO: OK - Credentials
+2022-10-09 19:23:37,255 - INFO: Authenticating
+2022-10-09 19:23:37,256 - INFO: OK - Authentication
+2022-10-09 19:23:37,256 - INFO: Generating tweet
+2022-10-09 19:23:37,256 - INFO: OK - Generation. Tweet: This is a test
+2022-10-09 19:23:37,256 - INFO: Post tweet
+2022-10-13 10:50:45,486 - INFO: Getting credentials
+2022-10-13 10:50:45,487 - INFO: OK - Credentials
+2022-10-13 10:50:45,487 - INFO: Authenticating
+2022-10-13 10:50:45,487 - INFO: OK - Authentication
+2022-10-13 10:50:45,487 - INFO: Generating tweet
+2022-10-13 10:50:45,487 - INFO: OK - Generation. Tweet: This is a test
+2022-10-13 10:50:45,487 - INFO: Post tweet
