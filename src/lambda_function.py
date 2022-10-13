@@ -20,12 +20,6 @@ def lambda_handler(event, context):
     logging.info("OK - Credentials")
     
     logging.info("Authenticating")
-    #auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-    #auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
-    #auth = tweepy.Client(BEARER_TOKEN)
-    #api = tweepy.API(auth)
-
-    #api = tweepy.Client(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
     
     client = tweepy.Client(BEARER_TOKEN, API_KEY, API_KEY_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
     auth = tweepy.OAuth1UserHandler(API_KEY, API_KEY_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
@@ -38,9 +32,6 @@ def lambda_handler(event, context):
     logging.info("OK - Authentication")
     
     logging.info("Generating tweet")
-    #tweets_file = ROOT / "tweets.csv"
-    #recent_tweets = api.user_timeline()[:3]
-    #tweet = get_tweet(tweets_file)
     tweet = "This is a test"
     if tweet is None:
         logging.error("FAIL - Tweet was not correctly generated")
